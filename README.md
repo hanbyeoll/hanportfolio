@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Portfolio website (Test)
 
-You can use the [editor on GitHub](https://github.com/hanbyeoll/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm product designer. I built this website for testing. I will upload new version of my portfolio soon!
+Stay tuned!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+My name is Hanbyeol Jang. I am a product designer crafting beautiful and emotional, yet fucntional digital experiences. Based in NYC, USA.
+I am focusing on evaluating and improving a user experience, and create layout designs creating interfaces for new platform. I enjoy what I do and I work hard especially with who I work with. And I believe good design can change the world with awesome people and meaningful work. Let's change the world together!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Follow Me
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanbyeoll/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> * <a href="https://www.linkedin.com/in/hanbyeoll/" title="LinkedIn">LinkedIn</a>
+> * <a href="https://dribbble.com/hanbyeoll" title="Dribble">LinkedIn</a>
+> * <a href="https://www.behance.net/hanbyeoll" title="Behance">LinkedIn</a>
