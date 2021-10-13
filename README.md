@@ -3,6 +3,8 @@
 Hi, I'm product designer. I built this website for testing. I will upload new version of my portfolio soon!
 Stay tuned!
 
+To view website, <a href="https://hanbyeoll.github.io/portfolio/">click here</a>
+
 ### About Me
 
 My name is Hanbyeol Jang. I am a product designer crafting beautiful and emotional, yet fucntional digital experiences. Based in NYC, USA.
