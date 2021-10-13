@@ -11,5 +11,5 @@ I am focusing on evaluating and improving a user experience, and create layout d
 ### Follow Me
 
 > * <a href="https://www.linkedin.com/in/hanbyeoll/" title="LinkedIn">LinkedIn</a>
-> * <a href="https://dribbble.com/hanbyeoll" title="Dribble">LinkedIn</a>
-> * <a href="https://www.behance.net/hanbyeoll" title="Behance">LinkedIn</a>
+> * <a href="https://dribbble.com/hanbyeoll" title="Dribbble">Dribbble</a>
+> * <a href="https://www.behance.net/hanbyeoll" title="Behance">Behance</a>
