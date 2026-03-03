@@ -3,7 +3,7 @@
 Hi, I'm product designer. I built this website for testing. I will upload new version of my portfolio soon!
 Stay tuned!
 
-To view website, <a href="https://hanbyeoll.github.io/hanportfolio)">click here</a>
+To view website, <a href="https://hanbyeoll.github.io/hanportfolio">click here</a>
 
 ### About Me
 
